@@ -1,0 +1,21 @@
+{
+  "name": "phaser_games",
+  "homepage": "https://github.com/moloch/phaser_games",
+  "authors": [
+    "moloch <dario.coco@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.4"
+  }
+}
